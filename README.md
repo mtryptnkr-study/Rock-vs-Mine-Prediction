@@ -1,4 +1,4 @@
-# Sonar Rock vs. Mine Prediction (Optimized)
+# Sonar Rock vs. Mine Prediction
 
 This project uses machine learning to classify underwater objects as either **Rocks** or **Mines** based on sonar return signals. It features an optimized pipeline using **SMOTE** for data augmentation and **GridSearchCV** for hyperparameter tuning to maximize predictive performance on a small, high-dimensional dataset.
 
